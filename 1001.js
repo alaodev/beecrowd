@@ -1,3 +1,5 @@
+// https://www.beecrowd.com.br/judge/en/problems/view/1001
+
 let input = require('fs').readFileSync('stdin', 'utf8');
 
 let inputArray = input.split('\n');
